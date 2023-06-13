@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <center><h2>Selamat Datang</h2></center>
+        <form action="login.php" method="post">
+            <div class="form-group">
+                <label for="username">NISN:</label>
+                <input type="text" name="username" placeholder="nomor induk siswa nasional..." required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" name="password" placeholder="password..." required>
+            </div>
+            <div class="form-group">
+                <button type="submit" name="login">Login</button>
+            </div>
+        </form>
+        <p>Don't have an account? <a href="register.html">Register</a></p>
+    </div>
+</body>
+</html>

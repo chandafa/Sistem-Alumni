@@ -1,0 +1,14 @@
+Time : 12:08:02
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'aluni_v2.aluni_v_anggota_lengkap' doesn't exist
+Raw SQL : SELECT * FROM aluni_v_anggota_lengkap  WHERE aktif = 'ya'  ORDER BY nama_lengkap ASC
+
+Time : 12:07:37
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'aluni_v2.aluni_v_anggota_lengkap' doesn't exist
+Raw SQL : SELECT * FROM aluni_v_anggota_lengkap  WHERE aktif = 'ya'  ORDER BY nama_lengkap ASC
+
+Time : 12:07:09
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'aluni_v2.aluni_v_anggota_lengkap' doesn't exist
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE jenis_kelamin = 'laki-laki' AND aktif = 'ya'
+
+Time : 11:59:10
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'

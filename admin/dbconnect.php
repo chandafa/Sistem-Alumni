@@ -1,0 +1,14 @@
+<?php
+$host = 'localhost';
+$dbName = 'blogku';
+$username = 'root';
+$password = '';
+
+try {
+    $pdo = new PDO("mysql:host=$host;dbname=$dbName", $username, $password);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    echo "Database connection failed: " . $e->getMessage();
+    die();
+}
+?>

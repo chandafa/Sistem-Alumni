@@ -1,0 +1,7 @@
+Time : 10:21:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'far. Akasia Ujung. Pangkalan kerinci barat</p>', 'ya', 'admin', NOW(), 'admin...' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Candra Kirana', '3048449681', 'laki-laki', 'Kabupaten Pelalawan', '2004/12/12', '1', '.jpg', '4', '', '<p>Jl. Tengku said Ja'far. Akasia Ujung. Pangkalan kerinci barat</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 10:21:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'far. Akasia Ujung. Pangkalan kerinci barat</p>', 'ya', 'admin', NOW(), 'admin...' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Candra Kirana', '3048449681', 'laki-laki', 'Kabupaten Pelalawan', '2004/12/12', '1', '3048449681.jpg', '4', '81', '<p>Jl. Tengku said Ja'far. Akasia Ujung. Pangkalan kerinci barat</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')

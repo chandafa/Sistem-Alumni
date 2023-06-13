@@ -1,0 +1,5 @@
+user login : admin
+password : admin
+db : aluni_v2
+
+Jika dirasa bermanfaat bisa donasi untuk perkembangan website ini. terimakasih
