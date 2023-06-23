@@ -1,6 +1,6 @@
 <h1 align="center">Hi, My Team Alumni 16</h1>
 <h3 align="center">Alumni TKJ Gen 16 SMK NEGERI 1 PANGKALAN KERINCI</h3>
-- 📝 Web Team Me [Live Demo](https://chandafa.github.io/Alumni-16/#hero)
+- 📝 Web Team Me [Live Demo] (https://chandafa.github.io/Sistem-Alumni)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandafa&label=Profile%20views&color=0e75b6&style=flat" alt="chandafa" /> </p>
 
