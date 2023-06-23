@@ -4,13 +4,8 @@
 
 - 📝 Web Team Me [Live Demo] (https://chandafa.github.io/Sistem-Alumni)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandafa&label=Profile%20views&color=0e75b6&style=flat" alt="chandafa" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - Student **Alumni-16**
-
+- 
 - 👨‍💻 All of my projects are available at [https://infoitchandra.blogspot.com/p/profil_2.html](https://infoitchandra.blogspot.com/p/profil_2.html)
 
 - 📝 I regularly write articles on [https://infoitchandra.blogspot.com](https://infoitchandra.blogspot.com)
