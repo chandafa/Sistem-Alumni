@@ -5,7 +5,7 @@
 - 📝 Web Team Me [Live Demo] (https://chandafa.github.io/Sistem-Alumni)
 
 - Student **Alumni-16**
-- 
+  
 - 👨‍💻 All of my projects are available at [https://infoitchandra.blogspot.com/p/profil_2.html](https://infoitchandra.blogspot.com/p/profil_2.html)
 
 - 📝 I regularly write articles on [https://infoitchandra.blogspot.com](https://infoitchandra.blogspot.com)
